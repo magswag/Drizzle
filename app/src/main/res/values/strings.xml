@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Drizzle</string>
+<string-array name="settingarray">
+    <item>Sign in</item>
+    <item>Not in use</item>
+    <item>Not in use</item>
+</string-array>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_lost">Recover password</string>
+    <string name="action_create">Create an account</string>
+<string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <color name="primary700">#00796b</color>
+    <color name="primary500">#009688</color>
+    <color name="primary400">#26a69a</color>
+    <color name="primary300">#4db6ac</color>
+    <color name="primary200">#80cbc4</color>
+    <color name="primary100">#b2dfdb</color>
+    <color name="primary50">#e0f2f1</color>
+
+    <color name="accent50">#e0f7fa</color>
+    <color name="accent100">#b2ebf2</color>
+    <color name="accent200">#80deea</color>
+    <color name="accent300">#4dd0e1</color>
+    <color name="accent400">#26c6da</color>
+    <color name="accent500">#00bcd4</color>
+    <color name="accent600">#00acc1</color>
+    <color name="accent700">#0097a7</color>
+    <color name="accent800">#00838f</color>
+
+
+    <color name="accenta200">#18ffff</color>
+    <color name="accenta100">#84ffff</color>
+    <color name="accenta400">#00e5ff</color>
+    <string name="title_activity_log_in">Sign in</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>

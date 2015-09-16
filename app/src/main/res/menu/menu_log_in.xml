@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="com.micropop.drizzle.LogIn">
+    <item android:id="@+id/action_lost" android:title="@string/action_lost"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_create" android:title="@string/action_create"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
